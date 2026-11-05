@@ -1,5 +1,7 @@
 # Vetly — Painel Administrativo (Java MVC)
 
+REPOSITORIO: https://github.com/Duartegdm/vetly-mvc.git
+
 Painel administrativo server-side em **Java 21 + Spring Boot + Thymeleaf** da
 plataforma Vetly, um marketplace que conecta tutores a veterinários independentes.
 Este serviço é um back-office operado por **ADMIN** (staff), cobrindo a fatia de
